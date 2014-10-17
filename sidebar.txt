@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nin:home|Door43 (nin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nin|d43-nin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nin/archive/master.zip|d43-nin.zip]]
+
+**Recent Changes**
+{{changes>ns = nin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nin|Ethnologue data]]
+
